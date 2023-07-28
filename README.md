@@ -1,3 +1,5 @@
+# deepsort git 에서 보고 공부함 
+# 원 저자 git : 
 # yolov4-deepsort
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg)](LICENSE)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1zmeSTP3J5zu2d5fHgsQC06DyYEYJFXq1?usp=sharing)
